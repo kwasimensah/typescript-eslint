@@ -61,7 +61,8 @@
     "minimatch": "^10.2.2",
     "semver": "^7.7.3",
     "tinyglobby": "^0.2.15",
-    "ts-api-utils": "^2.5.0"
+    "ts-api-utils": "^2.5.0",
+    "typescript": "catalog:",
   },
   "devDependencies": {
     "@typescript/native": "catalog:",
@@ -69,7 +70,6 @@
     "eslint": "catalog:",
     "glob": "catalog:",
     "rimraf": "catalog:",
-    "typescript": "catalog:",
     "vitest": "catalog:",
     "yaml": "catalog:"
   },
